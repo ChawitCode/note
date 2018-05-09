@@ -1,0 +1,15 @@
+Power shell
+$Env:COMPOSE_CONVERT_WINDOWS_PATHS=1
+docker-compose up -d
+CMD
+set COMPOSE_CONVERT_WINDOWS_PATHs=1
+docker-compose up -d
+
+
+http://localhost:8080/job/test/build?token=1234
+
+weakPassword
+
+root1234
+
+--------------'
